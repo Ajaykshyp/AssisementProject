@@ -1,0 +1,5 @@
+USER_LOGIN='Login Successfully.'
+NOT_UPLOAD='File not uploaded.'
+FILE_UPLOAD='File uploaded'
+UNAUTHORIZED='You are not authorized user'
+USER_REGISTER='User register successfully.'
